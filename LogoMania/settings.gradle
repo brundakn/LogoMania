@@ -1,0 +1,2 @@
+rootProject.name = "LogoMania"
+include ':app'
